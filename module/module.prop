@@ -1,0 +1,6 @@
+id=ginkgo_camera_mic_fix
+name=Ginkgo Camera + Mic Fix
+version=v1.0
+versionCode=1
+author=opencode
+description=Disables the faulty S5KGM1 rear main camera, makes the OV8856 ultrawide the default rear camera, and disables Fluence so the VoIP mic works. Survives LineageOS updates as long as Magisk survives.
